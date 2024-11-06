@@ -2,8 +2,6 @@ from pyspark.sql import SparkSession
 from pyspark import SparkConf
 import os
 
-from pyspark.sql.functions import datediff, current_date, when, initcap
-
 os.environ["PYSPARK_PYTHON"]="C:/Users/hp/Desktop/bigdata/Python/Python/Python37/python.exe"
 
 conf=SparkConf()
