@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0e65fac-159a-49ea-ba37-55d258054cb1" name="Changes" comment="Sales performance code using SQL">
+      <change afterPath="$PROJECT_DIR$/Workload_sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales_performance_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/sales_performance_sql.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "debmallik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/debmallik/bigdataPractice.git",
+    "accountId": "1618ba2f-2eaa-45ef-948c-9cdf54af9b9b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2oL4q6Q0iYhcTLV4vbj23i5tybE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Workload_sql.executor": "Run",
+    "Python.age_pyspark.executor": "Run",
+    "Python.bank_fraud_pyspark.executor": "Run",
+    "Python.bonus_pyspark.executor": "Run",
+    "Python.cust_loyal_pyspark.executor": "Run",
+    "Python.cust_purchase_pyspark.executor": "Run",
+    "Python.cust_spend_pyspark.executor": "Run",
+    "Python.eCommerce_pyspark.executor": "Run",
+    "Python.ecom_return_pyspark.executor": "Run",
+    "Python.elec-consumption_pyspark.executor": "Run",
+    "Python.emp_productivity_pyspark.executor": "Run",
+    "Python.emp_sal_band_pyspark.executor": "Run",
+    "Python.emp_status_check.executor": "Run",
+    "Python.emp_status_sql.executor": "Run",
+    "Python.finance_risk_pyspark.executor": "Run",
+    "Python.grade_pyspark.executor": "Run",
+    "Python.hospital_pyspark.executor": "Run",
+    "Python.mileage_pyspark.executor": "Run",
+    "Python.overtime_pyspark.executor": "Run",
+    "Python.prod_return_pyspark.executor": "Run",
+    "Python.prod_sales_pyspark.executor": "Run",
+    "Python.product_inv_pyspark.executor": "Run",
+    "Python.sales_performance.executor": "Run",
+    "Python.sales_performance_sql.executor": "Run",
+    "Python.student_grad_pyspark.executor": "Run",
+    "Python.workload_pyspark.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/hp/PycharmProjects/CodingPractice",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Workload_sql">
+    <configuration name="Workload_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workload_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emp_status_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emp_status_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emp_status_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emp_status_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sales_performance_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sales_performance_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student_grad_pyspark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student_grad_pyspark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Workload_sql" />
+        <item itemvalue="Python.sales_performance_sql" />
+        <item itemvalue="Python.emp_status_sql" />
+        <item itemvalue="Python.emp_status_check" />
+        <item itemvalue="Python.student_grad_pyspark" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0e65fac-159a-49ea-ba37-55d258054cb1" name="Changes" comment="" />
+      <created>1730635710303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730635710303</updated>
+    </task>
+    <task id="LOCAL-00001" summary="This employee status check using pyspark">
+      <option name="closed" value="true" />
+      <created>1730638823742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730638823742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sales performance using pyspark">
+      <option name="closed" value="true" />
+      <created>1730643823709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730643823709</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Workload code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730662306117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730662306117</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Workload code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730662356407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730662356407</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Overtime code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730662439443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730662439443</updated>
+    </task>
+    <task id="LOCAL-00006" summary="age status code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730663894637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730663894637</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mileage code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730665083345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730665083345</updated>
+    </task>
+    <task id="LOCAL-00008" summary="student grade code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730686603235</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730686603235</updated>
+    </task>
+    <task id="LOCAL-00009" summary="product inventory code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730687870247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730687870247</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Employee bonus code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730698615514</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730698615514</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Product return code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730701617271</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730701617271</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Customer spending code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730704402021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730704402021</updated>
+    </task>
+    <task id="LOCAL-00013" summary="eCommerce code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730706573733</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730706573733</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Financial risk code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730737697996</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730737697996</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Customer purchase recency code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730740867664</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730740867664</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Electricity consumption code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730746223537</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730746223537</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Employee salary band code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730748408856</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730748408856</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Product sale code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730787985886</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730787985886</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Customer loyality code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730790462613</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730790462613</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ecommerce return code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730814238922</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730814238922</updated>
+    </task>
+    <task id="LOCAL-00021" summary="employee productivity code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730817647832</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730817647832</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Bank fraud code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730823882302</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730823882302</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Hospital code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730827402188</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730827402188</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Student graduation code using pyspark">
+      <option name="closed" value="true" />
+      <created>1730833737466</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730833737466</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Employee status check code using SQL">
+      <option name="closed" value="true" />
+      <created>1730862348510</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1730862348510</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Sales performance code using SQL">
+      <option name="closed" value="true" />
+      <created>1730863304893</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730863304893</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This employee status check using pyspark" />
+    <MESSAGE value="sales performance using pyspark" />
+    <MESSAGE value="Workload code using pyspark" />
+    <MESSAGE value="Overtime code using pyspark" />
+    <MESSAGE value="age status code using pyspark" />
+    <MESSAGE value="Mileage code using pyspark" />
+    <MESSAGE value="student grade code using pyspark" />
+    <MESSAGE value="product inventory code using pyspark" />
+    <MESSAGE value="Employee bonus code using pyspark" />
+    <MESSAGE value="Product return code using pyspark" />
+    <MESSAGE value="Customer spending code using pyspark" />
+    <MESSAGE value="eCommerce code using pyspark" />
+    <MESSAGE value="Financial risk code using pyspark" />
+    <MESSAGE value="Customer purchase recency code using pyspark" />
+    <MESSAGE value="Electricity consumption code using pyspark" />
+    <MESSAGE value="Employee salary band code using pyspark" />
+    <MESSAGE value="Product sale code using pyspark" />
+    <MESSAGE value="Customer loyality code using pyspark" />
+    <MESSAGE value="ecommerce return code using pyspark" />
+    <MESSAGE value="employee productivity code using pyspark" />
+    <MESSAGE value="Bank fraud code using pyspark" />
+    <MESSAGE value="Hospital code using pyspark" />
+    <MESSAGE value="Student graduation code using pyspark" />
+    <MESSAGE value="Employee status check code using SQL" />
+    <MESSAGE value="Sales performance code using SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sales performance code using SQL" />
+  </component>
+</project>
