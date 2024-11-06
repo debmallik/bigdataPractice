@@ -45,16 +45,4 @@ from age_table
 group by age_status
 """)
 
-# age_status_df = spark.sql("""
-# SELECT
-#     CASE
-#         WHEN age < 25 THEN 'Youth'
-#         WHEN age BETWEEN 25 AND 45 THEN 'Adult'
-#         ELSE 'Senior'
-#     END AS age_group,
-#     COUNT(*) AS total_customers
-# FROM age_table
-# GROUP BY age_group
-# ORDER BY age_group
-# """)
 age_status_df.show()
