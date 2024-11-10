@@ -1,6 +1,5 @@
 from pyspark.sql import SparkSession
 from pyspark import SparkConf
-from pyspark.sql.functions import when, col, min, max, count,avg,sum,expr
 import os
 
 os.environ["PYSPARK_PYTHON"]="C:/Users/hp/Desktop/bigdata/Python/Python/Python37/python.exe"
